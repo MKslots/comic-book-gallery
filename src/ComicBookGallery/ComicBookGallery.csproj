@@ -145,8 +145,8 @@
     <Content Include="Content\site.css" />
     <Content Include="Fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
-    <Content Include="Images\bone-50.jpg" />
-    <Content Include="Images\the-amazing-spider-man-657.jpg" />
+    <Content Include="Images\bone50.jpg" />
+    <Content Include="Images\the-amazing-spider-man657.jpg" />
     <Content Include="Images\the-amazing-spider-man700.jpg" />
     <Content Include="obj\Debug\ComicBookGallery.csproj.FileListAbsolute.txt" />
     <Content Include="obj\Debug\ComicBookGallery.dll" />
